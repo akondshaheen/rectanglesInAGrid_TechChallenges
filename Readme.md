@@ -7,7 +7,6 @@ numberOfRectangles(4, 4) == 100
 Here is how the 3x2 grid works (Thanks to GiacomoSorbi for the idea):
 
 Ans:
-We have discussed counting number of squares in a n x m grid,
 Let us derive a formula for number of rectangles.
 If the grid is 1×1, there is 1 rectangle.
 If the grid is 2×1, there will be 2 + 1 = 3 rectangles
